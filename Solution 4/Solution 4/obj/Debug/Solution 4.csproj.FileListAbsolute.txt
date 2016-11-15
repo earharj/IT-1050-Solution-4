@@ -1,0 +1,6 @@
+C:\Users\Jackie\Desktop\Solution 4\Solution 4\bin\Debug\Solution 4.exe.config
+C:\Users\Jackie\Desktop\Solution 4\Solution 4\bin\Debug\Solution 4.exe
+C:\Users\Jackie\Desktop\Solution 4\Solution 4\bin\Debug\Solution 4.pdb
+C:\Users\Jackie\Desktop\Solution 4\Solution 4\obj\Debug\Solution 4.csprojResolveAssemblyReference.cache
+C:\Users\Jackie\Desktop\Solution 4\Solution 4\obj\Debug\Solution 4.exe
+C:\Users\Jackie\Desktop\Solution 4\Solution 4\obj\Debug\Solution 4.pdb
